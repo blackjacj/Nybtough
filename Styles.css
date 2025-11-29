@@ -8,7 +8,6 @@
 body {
     height: 100vh;
     background-image: url(Nyb\ Background.jpg);
-    background-attachment: fixed;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -33,6 +32,7 @@ h1 {
 h2 {
     text-align: center;
     padding-bottom: 2%;
+    font-size: 12pt;
     color: #424952;
 }
 
